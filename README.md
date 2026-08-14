@@ -1,6 +1,7 @@
 # networkwalks-B082-week1-Cybersecurity-lab-setup
 Cybersecurity Lab Setup
 what is the purpose of this ?
+The purpose is to create a safe and manageable Kali Linux environment for learning Linux, networking, and cybersecurity concepts without affecting the main operating system.
 which steps i followed?
 Step 1. Download & install 7-zip: https://7-zip.org/download.html
 Step 2. Download & install Virtualbox on your laptop/PC: https://virtualbox.org/wiki/Downloads
